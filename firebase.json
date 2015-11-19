@@ -1,0 +1,9 @@
+{
+  "firebase": "rbs-dai",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
